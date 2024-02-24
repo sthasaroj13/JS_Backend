@@ -1,7 +1,7 @@
 // this code is coded  to handle the error in api is error came in api 
 // which will be easy to debug when there will be error 
 //  here  i  inherit   the Error class which is allready inbuilt   in js  then i create a constuctor
-//which have statusCode and others to para to  then i create super function super function is a kind a function
+//which have statusCode and others  parameter  to  then i create super function super function is a kind a function
 // which  is present in parent class 
 
 

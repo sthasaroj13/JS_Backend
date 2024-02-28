@@ -7,5 +7,6 @@ class ApiResponse{
 
     }
 }
+export {ApiResponse}
 // const apires = new ApiResponse(200)
 // console.log(apires.statusCode);
